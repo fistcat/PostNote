@@ -1,10 +1,10 @@
 {
-  "name": "vidjot",
+  "name": "postnote",
   "version": "1.0.0",
   "description": "App to create video ideas",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node"
   },
   "author": "",
   "license": "ISC",
